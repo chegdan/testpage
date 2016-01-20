@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Download on GitHub"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'http://engys.com/development/1.jpeg?width=229&height=188'
   text: 'Contribute back to the community by visiting out GitHub Page'
 #
 # Use the call for action to show a button on the frontpage
