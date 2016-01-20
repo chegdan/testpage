@@ -7,6 +7,10 @@
 layout: frontpage
 header:
   image_fullwidth: you-can-delete-me-header.png
+callforaction:
+  url: https://tinyletter.com/feeling-responsive
+  text: Download the most recent binary ›
+  style: alert
 widget1:
   title: "Widget 1"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
@@ -32,10 +36,6 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Download the most recent binary ›
-  style: alert
 permalink: /index.html
 ---
 <div id="videoModal" class="reveal-modal large" data-reveal="">
