@@ -1,34 +1,34 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: "Project Home"
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: "Quick Links"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
+  - title: "Installtion"
     url: "#"
-  - title: "Dropdown Menu 2"
+  - title: "Support"
     url: "#"
-  - title: "Dropdown Menu 3"
+  - title: "GitHub Project"
     url: "#"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
+#- title: "Info"
+#  url: "/info/"
+#  side: right
 
 - title: "Search"
   url: "/search/"

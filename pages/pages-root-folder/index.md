@@ -8,19 +8,19 @@ layout: frontpage
 header:
   image_fullwidth: you-can-delete-me-header.png
 widget1:
-  title: "Installation"
+  title: "About the project"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'For more instructions on how to install this, see the installation page'
+  text: 'This project is ....'
 widget2:
-  title: "Support"
+  title: "Installation"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: 'For support, see the support page'
 widget3:
   title: "Download on GitHub"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'http://engys.com/development/1.jpeg?width=229&height=188'
   text: 'Contribute back to the community by visiting out GitHub Page'
 #
 # Use the call for action to show a button on the frontpage
